@@ -5,4 +5,4 @@ For jquery datepicker you have to include some css or javascript file and then s
 
 1. Simple Calendar.
 ============================
-$(function(){ $('#your-id-name').datepicker(); });
+<pre>$(function(){ $('#your-id-name').datepicker(); });</pre>
