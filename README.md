@@ -1,4 +1,4 @@
-jquery-datepicker-timepicker
+Jquery Datepicker Timepicker
 ============================
 
 For jquery datepicker you have to include some css or javascript file and then simply call the function with empty parameter or some parameter.
@@ -8,4 +8,4 @@ For jquery datepicker you have to include some css or javascript file and then s
 <pre>$(function(){ $('#your-id-name').datepicker(); });</pre>
 
 
-Fore see the live demo <a href="http://naveensiwas.com/index.php/demo/jquery/datepicker/MWsiIFyNl8qvdi9lIZaCnYLShsX241KMo9nkllwHMpk/"> click here </a>
+For see the live demo <a href="http://naveensiwas.com/index.php/demo/jquery/datepicker/MWsiIFyNl8qvdi9lIZaCnYLShsX241KMo9nkllwHMpk/"> click here </a>
