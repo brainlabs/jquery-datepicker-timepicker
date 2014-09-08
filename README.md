@@ -13,7 +13,7 @@ Configuration steps are as follows
 
  Step 1:- Download jquery-datepicker-timepicker-master.zip from github. For download <a href="https://github.com/naveensiwas/jquery-datepicker-timepicker">click here</a>
  
- Step 2:- Unzip jquery-datepicker-timepicker-master.zip it.
+ Step 2:- Unzip (jquery-datepicker-timepicker-master.zip) it.
  
  Step 3:- After Unzip the dowloaded zip file. Then rename the folder jquery-datepicker-timepicker-master to jquery-datepicker-timepicker 
  
