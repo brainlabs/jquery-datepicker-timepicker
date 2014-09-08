@@ -3,9 +3,9 @@ Jquery Datepicker Timepicker
 
 For jquery datepicker you have to include some css or javascript file and then simply call the function with empty parameter or some parameter.
 
-1. Simple Calendar.
+Simple Calendar.
 ============================
 <pre>$(function(){ $('#your-id-name').datepicker(); });</pre>
 
 
-For see the live demo <a href="http://naveensiwas.com/index.php/demo/jquery/datepicker/MWsiIFyNl8qvdi9lIZaCnYLShsX241KMo9nkllwHMpk/"> click here </a>
+For see the live demo <a href="http://naveensiwas.com/article/jquery-datepicker-with-multiple-functionality-aid-3.html"> click here </a>
